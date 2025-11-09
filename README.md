@@ -8,9 +8,12 @@
 
 <!-- ================== Profile Summary/Bio ================== -->
 
-<h2 align="center">Hi 👋, I'm Precious Nicodemus</h2>
+<h2 align="center text-green-200">Hi 👋, I'm Precious Mashingaidze.
+I am a Mother , Wife and Most importantly I am a Student </h2>
 <p align="center">
-Software development student with a foundation in cybersecurity.  
+
+  CodeSpace Software development student with a foundation in cybersecurity.  
+  
 I’m passionate about building modern, responsive web applications and using technology to bring ideas to life.  
 Outside of coding, I’m deeply into fitness and gym fashion — and I’m planning a business that combines my love for **technology, gym workouts, and gym wear**.
 </p>
