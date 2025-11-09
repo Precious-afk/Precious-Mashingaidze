@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Precious-afk/Precious-afk/main/profile.jpg" alt="Precious Nicodemus" width="180" style="border-radius:50%;">
+  <img src="![GitHub ProfilePic](https://github.com/user-attachments/assets/4d31fa08-af0e-42c7-a239-3916bc344645)"
+>
 </p>
 
 <h1 align="center">Hi, I'm Precious Nicodemus 👋</h1>
