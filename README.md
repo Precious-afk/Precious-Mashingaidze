@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![GitHub ProfilePic](https://github.com/user-attachments/assets/4d31fa08-af0e-42c7-a239-3916bc344645)"
+  <img src="![GitHub ProfilePic]"
 >
 </p>
 
