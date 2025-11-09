@@ -8,7 +8,7 @@
 
 <!-- ================== Profile Summary/Bio ================== -->
 
-<h1 align="center">Hey there 👋, I'm Precious Mashingaidze</h1>
+<h1 align="center text-rose-800">Hey there 👋, I'm Precious Mashingaidze</h1>
 <h3 align="center">💻 Software Developer | 🏋️‍♀️ Gym Enthusiast | 💡 Tech + Fitness Innovator</h3>
 
 <p align="center">
