@@ -1,7 +1,8 @@
 <!-- ================== Profile Picture ================== -->
 
 <p align="center">
-  <img src="GitHub ProfilePic.jpg" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
+  <img src=<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ff988e97-28bb-4e16-abc8-05527c5fc165" />
+>
 </p>
 
 
