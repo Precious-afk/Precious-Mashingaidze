@@ -1,12 +1,13 @@
 <!-- ================== Profile Picture ================== -->
 
 <p align="center">
-  <img src= "https://avatars.githubusercontent.com/u/225052419?s=400&u=91d12bc2f776cd2035d55e5899ddb0fa4f90c863&v=4/>
+  <img src= "https://avatars.githubusercontent.com/u/225052419?s=400&u=91d12bc2f776cd2035d55e5899ddb0fa4f90c863&v=4"
 
 </p>
 
 
 <!-- ================== Profile Summary/Bio ================== -->
+
 <h2 align="center">Hi 👋, I'm Precious Nicodemus</h2>
 <p align="center">
 Software development student with a foundation in cybersecurity.  
