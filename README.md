@@ -1,7 +1,9 @@
 <!-- ================== Profile Picture ================== -->
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/95842335?v=4" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
+  <img src="https://raw.githubusercontent.com/Precious-afk/Precious-afk/main/profile.jpg" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
 </p>
+
 
 <!-- ================== Profile Summary/Bio ================== -->
 <h2 align="center">Hi 👋, I'm Precious Nicodemus</h2>
