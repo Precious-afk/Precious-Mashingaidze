@@ -1,64 +1,75 @@
+<!-- ================== Profile Picture ================== -->
 <p align="center">
-  <img src="![GitHub ProfilePic]"
->
+  <img src="https://avatars.githubusercontent.com/u/95842335?v=4" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">Hi, I'm Precious Nicodemus 👋</h1>
-
+<!-- ================== Profile Summary/Bio ================== -->
+<h2 align="center">Hi 👋, I'm Precious Nicodemus</h2>
 <p align="center">
-  💻 Software Developer | 🏋️‍♀️ Gym Enthusiast | 💡 Future Tech + Fitness Entrepreneur  
+Software development student with a foundation in cybersecurity.  
+I’m passionate about building modern, responsive web applications and using technology to bring ideas to life.  
+Outside of coding, I’m deeply into fitness and gym fashion — and I’m planning a business that combines my love for **technology, gym workouts, and gym wear**.
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 📌 Pinned Repositories (Modules)
+Here are some of my coursework and practical projects from my software development journey:
 
-I'm a passionate and driven software developer currently studying at **CodeSpace**, building a strong foundation in **front-end and back-end development**.  
-I’m also a big fan of **gym workouts and fitness fashion** — I’m even planning a business that combines my love for **technology and gym culture** to create something truly unique.
-
----
-
-### 🚀 My Projects
-
-Here are some of my recent repositories from my learning journey:  
-
-- 🧩 **[Module_01](https://github.com/Precious-afk/Module_01)** – Intro to HTML & CSS fundamentals.  
-- 🎨 **[Module_02](https://github.com/Precious-afk/Module_02)** – Responsive web design practice.  
-- ⚙️ **[Module_03](https://github.com/Precious-afk/Module_03)** – Basic JavaScript concepts.  
-- 🌐 **[Module_04](https://github.com/Precious-afk/Module_04)** – API integration and data fetching.  
-- 🧠 **[Module_05](https://github.com/Precious-afk/Module_05)** – Building a small full-stack project.  
-- 💼 **[Module_06](https://github.com/Precious-afk/Module_06)** – Final web app project demonstrating full development skills.  
-
-You can explore more in my pinned repositories 👇
+- 🔹 [Module_06](https://github.com/Precious-afk/Module_06) – Responsive layouts and clean web design  
+- 🔹 [Module_07](https://github.com/Precious-afk/Module_07) – JavaScript interactivity and DOM manipulation  
+- 🔹 [Module_08](https://github.com/Precious-afk/Module_08) – API integration and data-driven web applications  
+- 🔹 [Module_09](https://github.com/Precious-afk/Module_09) – Frontend project focusing on reusable components  
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Frameworks:** React, Node.js  
-- **Tools:** Git, GitHub, VS Code, Figma  
-- **Other Interests:** UI/UX Design, Cybersecurity Foundations  
-
----
-
-### 🌟 Goals
-
-- 💪 Launch a fitness-focused tech brand that blends **style, performance, and innovation**.  
-- 🚀 Keep improving my development and business skills through real-world projects.  
-- 🌍 Collaborate with creative, driven developers and entrepreneurs.  
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: [nicodemusprecious5@gmail.com](mailto:nicodemusprecious5@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/precious-nicodemus-a23665220](https://www.linkedin.com/in/precious-nicodemus-a23665220)  
-- 🧑‍💻 GitHub: [github.com/Precious-afk](https://github.com/Precious-afk)  
-
----
-
+### 📊 Contributions and Activity
 <p align="center">
-  💖 “Code your future, lift your limits.” 💪  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Precious-afk&theme=react-dark" alt="Precious's GitHub Activity Graph"/>
+</p>
+
+---
+
+### 📝 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Precious-afk&show_icons=true&theme=radical" alt="Precious's GitHub Stats"/>
+</p>
+
+---
+
+### 🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💻 Projects & Contributions
+- 🧠 **Cybersecurity Foundation Certificate** – built secure systems and practiced ethical hacking basics  
+- 💻 **Frontend Projects (Module 06–09)** – explored HTML, CSS, JS, and React fundamentals  
+- 🚀 **Responsive Web Design Projects** – created layouts adaptable to all screen sizes  
+
+---
+
+### 🎨 Customised Profile
+I love creativity — whether it’s designing user interfaces, styling gym outfits, or planning my future business.  
+My dream is to blend **fitness**, **fashion**, and **software development** into a tech-driven brand that inspires others to stay fit and stylish.
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** [nicodemusprecious5@gmail.com](mailto:nicodemusprecious5@gmail.com)
+
+---
+
+### 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/precious-nicodemus-a23665220">LinkedIn</a> • 
+  <a href="https://github.com/Precious-afk">GitHub</a>
 </p>
 
