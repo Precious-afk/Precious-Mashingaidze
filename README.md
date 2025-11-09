@@ -1,6 +1,6 @@
 <!-- ================== Profile Picture ================== -->
 
-<p align="center sm-4">
+<p align="center sm:h-28">
   <img src= "https://avatars.githubusercontent.com/u/225052419?s=400&u=91d12bc2f776cd2035d55e5899ddb0fa4f90c863&v=4"
 
 </p>
@@ -85,7 +85,7 @@ Here are my SMART goals from my **CDV01 Career Goals Reflection**:
 
 - 🔭 Working on: Combining my love for **tech & fitness** into a startup idea  
 - 💬 Ask me about: Web development, app design, or fitness-tech ideas  
-- 🎧 Favorite boost song: *Lose Yourself – Eminem*  
+- 🎧 Favorite boost song: *Naughty Boy ft Beyonce - running*  
 - ☕ Fuel: Gym pre-workout + late-night coding coffee ☕  
 
 ---
