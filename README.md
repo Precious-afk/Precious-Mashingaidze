@@ -1,10 +1,9 @@
 <!-- ================== Profile Picture ================== -->
 <p align="center">
-  <img src="![GitHub ProfilePic](https://github.com/user-attachments/assets/d510f731-a98a-4683-89b9-c1b2c7574b18)
-" alt="Precious Mashingaidze" width="150" height="150" style="border-radius:50%"/>
-</p>
+  <img src="![GitHub ProfilePic](https://github.com/user-attachments/assets/88094abe-9bfb-45b6-b73a-f9d6ad153fcb)</p>
 
 <!-- ================== Profile Summary/Bio ================== -->
+
 <h2 align="center">Hi 👋, I'm Precious Mashingaidze</h2>
 <p align="center">
 Wife , Mother and a Software development student with a foundation in cybersecurity.  
