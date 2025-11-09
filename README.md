@@ -1,6 +1,7 @@
 <!-- ================== Profile Picture ================== -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/95842335?v=4" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
+  <img src="![GitHub ProfilePic](https://github.com/user-attachments/assets/d510f731-a98a-4683-89b9-c1b2c7574b18)
+" alt="Precious Mashingaidze" width="150" height="150" style="border-radius:50%"/>
 </p>
 
 <!-- ================== Profile Summary/Bio ================== -->
