@@ -1,8 +1,8 @@
 <!-- ================== Profile Picture ================== -->
 
 <p align="center">
-  <img src= img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ff988e97-28bb-4e16-abc8-05527c5fc165" />
->
+  <img src= "https://avatars.githubusercontent.com/u/225052419?s=400&u=91d12bc2f776cd2035d55e5899ddb0fa4f90c863&v=4/>
+
 </p>
 
 
