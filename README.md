@@ -1,7 +1,7 @@
 <!-- ================== Profile Picture ================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Precious-afk/Precious-afk/main/GitHub ProfilePic.jpg" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
+  <img src="GitHub ProfilePic.jpg" alt="Precious Nicodemus" width="150" height="150" style="border-radius:50%"/>
 </p>
 
 
