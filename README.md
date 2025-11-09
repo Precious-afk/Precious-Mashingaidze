@@ -1,6 +1,6 @@
 <!-- ================== Profile Picture ================== -->
 
-<p align="center">
+<p align="center sm-4">
   <img src= "https://avatars.githubusercontent.com/u/225052419?s=400&u=91d12bc2f776cd2035d55e5899ddb0fa4f90c863&v=4"
 
 </p>
@@ -44,15 +44,12 @@ Here are some of my coursework and practical projects from my software developme
 
 ---
 
-### 🛠️ Skills & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🛠️ 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Frameworks:** React, Node.js  
+- **Tools:** Git, GitHub, VS Code, Figma  
+- **Other Interests:** UI/UX Design, Cybersecurity Foundations  
 
 ---
 
@@ -69,14 +66,22 @@ My dream is to blend **fitness**, **fashion**, and **software development** into
 
 ---
 
-### 📫 Contact Me
-- 📧 **Email:** [nicodemusprecious5@gmail.com](mailto:nicodemusprecious5@gmail.com)
+### 🌟 Goals
+
+- 💪 Launch a fitness-focused tech brand that blends **style, performance, and innovation**.  
+- 🚀 Keep improving my development and business skills through real-world projects.  
+- 🌍 Collaborate with creative, driven developers and entrepreneurs.  
 
 ---
 
-### 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/precious-nicodemus-a23665220">LinkedIn</a> • 
-  <a href="https://github.com/Precious-afk">GitHub</a>
-</p>
+### 📫 Let's Connect
 
+- 📧 Email: [nicodemusprecious5@gmail.com](mailto:nicodemusprecious5@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/precious-nicodemus-a23665220](https://www.linkedin.com/in/precious-nicodemus-a23665220)  
+- 🧑‍💻 GitHub: [github.com/Precious-afk](https://github.com/Precious-afk)  
+
+---
+
+<p align="center">
+  💖 “Code your future, lift your limits.” 💪  
+</p>
